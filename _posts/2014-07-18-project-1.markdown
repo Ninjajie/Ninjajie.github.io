@@ -1,12 +1,12 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
+date: 2018-07-18
 img: cabin.png
 alt: image-alt
-project-date: Nov 2018
+project-date: Novembor 2018
 client: Start Bootstrap
-category: Game Engine, Tools, Physics Simulation
-description: GitHub page: <a href="">Flat Icons</a>. 
+category: Game Engine Tools
+description: GitHub page: <a href="">Flat Icons</a>. LOL.
 
 ---
