@@ -1,12 +1,12 @@
 ---
 layout: default
 modal-id: 1
-date: 2018-07-18
+date: 2014-07-18
 img: cabin.png
 alt: image-alt
-project-date: Novembor 2018
+project-date: April 2018
 client: Start Bootstrap
-category: Game Engine Tools
+category: Web Development
 description: GitHub page: <a href="https://github.com/Ninjajie/Fusion">Flat Icons</a>. LOL.
 
 ---
