@@ -15,4 +15,4 @@ description: We want physics in our games without sacrificing performace, **Fusi
 
 You may find **Fusion** a prototype-version of nVidia's FleX for Unity: we both use Position Based Dynamics, we both treat the objects as a set of particles. Of course, FleX has an ambitious vision: make everything in the scene particles, and solve all the constraints indifferently. But we choose not to do so since we found that, in many cases maybe it's better to treat an object as-is. So **Fusion** is, in the end, not just going to unify all kinds of physical objects in PBD solver, but also try to unify particles and mesh objects in a decent way.
 
-![](img/profile.png)
+![some title](/img/profile.png)
