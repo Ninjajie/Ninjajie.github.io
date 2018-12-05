@@ -7,6 +7,12 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://github.com/Ninjajie/Fusion">Flat Icons</a>. In Collaborate with <a href="https://www.yichenshou.com/">Flat Icons</a>, a game developer at Zinemax.
+description: We want physics in our games without sacrificing performace, **Fusion** is built in the spirit of making high-performance physics system for Unity <a href="https://github.com/Ninjajie/Fusion">GitHub</a>. In Collaborate with <a href="https://www.yichenshou.com/">Ethan Shou</a>, a game developer at Zinemax.
 
 ---
+
+# Project Descriptions
+
+You may find **Fusion** a prototype-version of nVidia's FleX for Unity: we both use Position Based Dynamics, we both treat the objects as a set of particles. Of course, FleX has an ambitious vision: make everything in the scene particles, and solve all the constraints indifferently. But we choose not to do so since we found that, in many cases maybe it's better to treat an object as-is. So **Fusion** is, in the end, not just going to unify all kinds of physical objects in PBD solver, but also try to unify particles and mesh objects in a decent way.
+
+![](img/profile.png)
